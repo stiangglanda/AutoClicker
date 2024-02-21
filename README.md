@@ -1,5 +1,5 @@
 # Auto Clicker
-
+![Build Status](https://github.com/stiangglanda/AutoClicker/actions/workflows/msbuild.yml/badge.svg)
 ## Overview
 This console program written in C++ provides auto-clicking functionality, allowing users to automate repetitive clicking tasks. The auto-clicking feature can be toggled on and off by pressing the middle mouse button, and once activated, it will continuously perform left mouse button clicks at the cursor's current position.
 
